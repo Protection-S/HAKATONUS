@@ -1,0 +1,6 @@
+@HAKATONUS.Server_HostAddress = https://localhost:7175
+
+GET {{HAKATONUS.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
